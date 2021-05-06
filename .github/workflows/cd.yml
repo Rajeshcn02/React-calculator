@@ -5,7 +5,7 @@ name: React App CD
 on:
   push:
     branches:
-    - main
+    - master
     - releases/*
 
 env:
