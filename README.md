@@ -1,3 +1,5 @@
+[![Node.js CI](https://github.com/Rajeshcn02/React-calculator/actions/workflows/ci.yml/badge.svg)](https://github.com/Rajeshcn02/React-calculator/actions/workflows/ci.yml)
+
 Calculator
 ---
 <img src="Logotype primary.png" width="60%" height="60%" />
